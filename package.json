@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Apoorv-Agr/react-skeleton/issues"
+    "url": "https://github.com/Apoorv-Agr/react-forms/issues"
   },
-  "homepage": "https://github.com/Apoorv-Agr/react-skeleton#readme",
+  "homepage": "https://github.com/Apoorv-Agr/react-forms#readme",
   "dependencies": {
     "babel-preset-react": "^6.24.1",
     "babelify": "^8.0.0",
