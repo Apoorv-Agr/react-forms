@@ -1,5 +1,6 @@
 var React = require('react');
-var createReactClass = require('create-react-class');
 var ReactDOM = require('react-dom');
-var List = require('./components/List.jsx');
-ReactDOM.render(<List />, document.getElementById('ingredients'));
+var Form = require('./components/Form.jsx');
+ReactDOM.render(<Form />, document.getElementById('form'));
+ReactDOM.render(<Form />, document.getElementById('form1'));
+ReactDOM.render(<Form />, document.getElementById('form2'));
